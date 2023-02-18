@@ -1,4 +1,4 @@
-## About Laravel
+## Affilates Demo
 
 To setup app:
 - `composer install`
