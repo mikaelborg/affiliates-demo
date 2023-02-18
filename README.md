@@ -1,4 +1,4 @@
-## Affilates Demo
+## Affiliates Demo
 
 To setup app:
 - `composer install`
